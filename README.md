@@ -1,4 +1,7 @@
-### Hi there I'm Hazal 👋
+### 👋 Hi there, I'm Hazal 
+    🌱 I'm interested in Machine Learning, Data Science and NLP 
+    📫 How to reach me: hazalsezgin99@gmail.com
+
 
 <!--
 **hazalsezgin/hazalsezgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
